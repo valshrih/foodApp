@@ -3,7 +3,7 @@
 This is test project that contains the usage of Next.js with TypeScript.
 
 
-## Notes?
+## Steps to Run 
 
 ```bash
 npm i
