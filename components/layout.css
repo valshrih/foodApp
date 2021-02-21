@@ -1,0 +1,49 @@
+/* @import '~antd/dist/antd.less'; */
+
+
+.app-header{
+  font-size: 18px;
+  font-family: 'Times New Roman', Times, serif;
+  color: #c03131;
+  background-color: rgb(39, 17, 17);
+  
+}
+
+#components-layout-demo-fixed .logo {
+  float: left;
+  width: 120px;
+  height: 31px;
+  margin: 16px 24px 16px 0;
+  background: rgba(255, 255, 255, 0.2);
+}
+.site-layout .site-layout-background {
+  background: #fff;
+}
+.demo-loadmore-list {
+  min-height: 350px;
+}
+
+.qt-button{
+  position: absolute;
+  bottom: -5px;
+  left: 65px;
+  background-color: whitesmoke;
+  border: 1px #d4d1d1 solid;
+  border-radius: 2px;
+  padding: 4px;
+}
+.qt-cart-button{
+  position: relative;
+  vertical-align: middle;
+  width: 56%;
+  background-color: whitesmoke;
+  border: 1px #d4d1d1 solid;
+  border-radius: 2px;
+}
+.checkout-btn,.checkout-btn:hover,.checkout-btn:active,.checkout-btn:visited{
+  height: 45px;
+  font-size: 14px;
+  font-weight: 900;
+    background-color: green !important;
+    border-color: green !important;
+}
